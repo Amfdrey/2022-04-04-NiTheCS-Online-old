@@ -1,19 +1,19 @@
 ---
 layout: workshop      # DON'T CHANGE THIS.
-venue: "NWU, South Africa "        # brief name of host site without address (e.g., "Euphoric State University")
+venue: "National Institute for Theoretical and Computational Sciences Software"        # brief name of host site without address (e.g., "Euphoric State University")
 address: "online"      # full street address of workshop (e.g., "Room A, 123 Forth Street, Blimingen, Euphoria")
 country: "za"      # lowercase two-letter ISO country code such as "fr" (see https://en.wikipedia.org/wiki/ISO_3166-1#Current_codes)
 language: "en"     # lowercase two-letter ISO language code such as "fr" (see https://en.wikipedia.org/wiki/List_of_ISO_639-1_codes)
 latitude: "0"     # decimal latitude of workshop venue (use https://www.latlong.net/)
 longitude: "0"    # decimal longitude of the workshop venue (use https://www.latlong.net)
-humandate: "22 August - 26 August, 2022"    # human-readable dates for the workshop (e.g., "Feb 17-18, 2020")
+humandate: "4-8 April, 2022"    # human-readable dates for the workshop (e.g., "Feb 17-18, 2020")
 humantime: "9 am - 1 pm SAST (UTC+2)"    # human-readable times for the workshop (e.g., "9:00 am - 4:30 pm")
 startdate: 2022-08-22      # machine-readable start date for the workshop in YYYY-MM-DD format like 2015-01-01
 enddate: 2022-08-26       # machine-readable end date for the workshop in YYYY-MM-DD format like 2015-01-02
-instructor: ["Sebastian Mosidi","TBC"] # boxed, comma-separated list of instructors' names as strings, like ["Kay McNulty", "Betty Jennings", "Betty Snyder"]
+instructor: ["Ruth Nanjala","Micheal Kofia Landi","Martin Dreyer", "Chaimae Samtal"] # boxed, comma-separated list of instructors' names as strings, like ["Kay McNulty", "Betty Jennings", "Betty Snyder"]
 helper: ["TBC"]     # boxed, comma-separated list of helpers' names, like ["Marlyn Wescoff", "Fran Bilas", "Ruth Lichterman"]
-email: ["sebastian.mosidi@nwu.ac.za"]    # boxed, comma-separated list of contact email addresses for the host, lead instructor, or whoever else is handling questions, like ["marlyn.wescoff@example.org", "fran.bilas@example.org", "ruth.lichterman@example.org"]
-collaborative_notes: https://pad.carpentries.org/2022-08-22-NWU-ONLINEE   # optional: URL for the workshop collaborative notes, e.g. an Etherpad or Google Docs document (e.g., https://pad.carpentries.org/2015-01-01-euphoria)
+email: ["rene.kotze@nithecs.ac.za"]    # boxed, comma-separated list of contact email addresses for the host, lead instructor, or whoever else is handling questions, like ["marlyn.wescoff@example.org", "fran.bilas@example.org", "ruth.lichterman@example.org"]
+collaborative_notes: https://pad.carpentries.org/2022-04-04-NiTheCS-Online   # optional: URL for the workshop collaborative notes, e.g. an Etherpad or Google Docs document (e.g., https://pad.carpentries.org/2015-01-01-euphoria)
 #eventbrite:  119095205967 # optional: alphanumeric key for Eventbrite registration, e.g., "1234567890AB" (if Eventbrite is being used)
 ---
 
@@ -111,7 +111,7 @@ address.
   
     This is an online event. We will meet using the online videoconference software Zoom. You will need to <a href="https://zoom.us/download">download and install their client</a> to connect with your instructors. The link to use for this event is
   
-  <a href="//carpentries.zoom.us/my/carpentriesroom1">"https://carpentries.zoom.us/my/carpentriesroom1?pwd=VElzMTlMcXh1bjF6YXl3L1NsTllldz09"</a>.  If needed, the password is **202020**.
+  <a href="//carpentries.zoom.us/my/carpentriesroom3">"Zoom Room 3"</a>.  If needed, the password is **202020**.
 </p>
 {% endif %}
 {% comment %}
